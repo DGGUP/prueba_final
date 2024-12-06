@@ -1,0 +1,9 @@
+.letra {
+    font-family: 'Comic Sans MS', sans-serif;
+}
+
+.centrado {
+display: flex; margin-top: 5%;
+justify-content: center;    
+
+}
